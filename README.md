@@ -1,2 +1,2 @@
-# data_analysis
-Accuracy comparison of sklearn machine learning tools (Random Forest, Support Vector Machines, Decision Tree, KNN, etc.) for a global airport survey.
+# Data_analysis
+Airport survey analysis using Pandas and Sklearn machine learning tools: Random Forest, Support Vector Machines, Decision Tree, KNN, etc.

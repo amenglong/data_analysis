@@ -26,3 +26,6 @@
 <li>Compare prediction's accuracy:</li>
 </ul>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32989413-4100b368-cd50-11e7-8cb6-1420277920d8.png" width="700"></p>
+
+## 4. Conclusions
+<b>Random Forest</b> is the best model predicting airport_rating with <b>67% of accuracy</b>

@@ -3,8 +3,13 @@
 
 <p><b>My goal is to find the best machine learning tool that can predict the variable "Airport Rating" based on other variables.</b></p>
 
+<p>Basic steps I followed:</p>
+
 ## 1. Survey
-The survey is a .csv file including 47 columns/variables with 1400 rows:
+<ul>
+  <li>Import survey (.csv file)</li>
+  <li>Check data (1400 rows, 47 columns/variables):</li>
+</ul>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32989191-b9b638ea-cd4c-11e7-836f-cbf78b9f5032.PNG" width="700"></p>
 
 ## 2. Data processing
@@ -17,7 +22,7 @@ The survey is a .csv file including 47 columns/variables with 1400 rows:
 ## 3. Machine learning models
 <ul>
 <li>Train <b>sklearn</b> maching learning models</li>
-<li>Test models (= predict airport_rating)</li>
+<li>Test models (= predict <b>airport_rating</b>)</li>
 <li>Compare prediction's accuracy:</li>
 </ul>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32989413-4100b368-cd50-11e7-8cb6-1420277920d8.png" width="700"></p>

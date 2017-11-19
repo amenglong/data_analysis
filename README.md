@@ -17,7 +17,7 @@
 <li>Data processed using <b>Pandas</b></li>
 <li>Check correlation between variables:</li>
 </ul>
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32989349-5cce2004-cd4f-11e7-98e0-f8b8c18d22ff.png" width="700"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32992023-a16bf3a4-cd80-11e7-9b0e-456c0705e1ef.png" width="700"></p>
 
 ## 3. Machine learning models
 <ul>
@@ -25,7 +25,7 @@
 <li>Test models (= predict <b>airport_rating</b>)</li>
 <li>Compare prediction's accuracy:</li>
 </ul>
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32989413-4100b368-cd50-11e7-8cb6-1420277920d8.png" width="700"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32992042-c98dfad0-cd80-11e7-94bf-777e47385255.png" width="700"></p>
 
 ## 4. Conclusions
 <b>Random Forest</b> is the best model predicting airport_rating with <b>67% of accuracy</b>
